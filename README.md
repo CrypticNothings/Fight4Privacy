@@ -1,6 +1,6 @@
 ---
 
-Fight4Privacy
+*Fight4Privacy*
 
 Support the Mission:
 I work full-time on this project with no profit, and it can be challenging to keep going. If you'd like to support me on this journey, any contribution—even the price of a cup of coffee—would be greatly appreciated!
