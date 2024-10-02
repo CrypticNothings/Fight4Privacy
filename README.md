@@ -1,7 +1,7 @@
 Fight4Privacy
 
 Support the Mission:
-I work full-time on this project with no profit, and it can be challenging to keep going. If you'd like to support me on this journey, any contribution—even the price of a cup of coffee—would be greatly appreciated!
+I work full-time on many projects with no profit, and it can be challenging to keep going. If you'd like to support me on this journey, any contribution—even the price of a cup of coffee—would be greatly appreciated!
 CashApp: $Ster1ing711 (Note: The L is actually a number one.)
 Thank you!
 
