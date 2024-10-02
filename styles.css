@@ -6,7 +6,7 @@
 
 body {
     font-family: Arial, sans-serif;
-    background-color: #e1e2e2;
+    background-color: #000000;
     color: #000000;
     line-height: 1.6;
 }
@@ -42,7 +42,7 @@ nav ul li a {
 section {
     padding: 20px;
     margin: 10px;
-    background: #000000;
+    background: #e1e2e2;
     border-radius: 5px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
