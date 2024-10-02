@@ -6,7 +6,7 @@
 
 body {
     font-family: Arial, sans-serif;
-    background-color: #ff9900;
+    background-color: #e1e2e2;
     color: #000000;
     line-height: 1.6;
 }
@@ -48,7 +48,7 @@ section {
 }
 
 h2 {
-    color: #ff9900;
+    color: #fb8122;
     margin-bottom: 15px;
 }
 
@@ -60,7 +60,7 @@ ul {
 footer {
     text-align: center;
     padding: 10px;
-    background-color: #005f73;
+    background-color: #1d2228;
     color: white;
     position: relative;
     bottom: 0;
