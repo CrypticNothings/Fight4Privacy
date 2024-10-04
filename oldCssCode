@@ -1,0 +1,160 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #FF5733;
+    color: #fff;
+    text-align: center;
+    padding: 100px 0;
+}
+
+h1 {
+    font-size: 36px;
+    font-weight: bold;
+    margin: 0;
+    text-shadow: 0 0 5px #FF0000, 0 0 8px #0000FF;
+}
+
+h2 {
+    font-size: 24px;
+    margin: 10px 0;
+}
+
+.cta-button {
+    display: inline-block;
+    padding: 15px 30px;
+    background-color: #D82C00;
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+#about {
+    background-color: #F5F5F5;
+    padding: 50px;
+    text-align: center;
+}
+
+#statistics {
+    padding: 50px;
+    text-align:center;
+}
+
+#statistics h3 {
+    font-size: 24px;
+    font-weight: bold;
+    margin: 0;
+}
+
+#advocacy {
+    background-color: #FF5733;
+    color: #fff;
+    padding: 100px 0;
+    text-align: center;
+}
+
+.cta-banner h3 {
+    font-size: 30px;
+    font-weight: bold;
+    margin: 0;
+}
+
+blockquote {
+    font-style: italic;
+    font-size: 20px;
+    margin: 20px 0;
+}
+
+#information {
+    padding: 50px;
+    text-align: center;
+}
+
+#resources {
+    background-color: #F5F5F5;
+    padding: 50px;
+    text-align: center;
+}
+
+#resources h2 {
+    font-size: 24px;
+    font-weight: bold;
+    margin: 0;
+}
+
+#resources ul {
+    list-style: none;
+    padding: 0;
+}
+
+#resources li {
+    margin: 10px 0;
+}
+
+#resources a {
+    color: #FF5733;
+    text-decoration: none;
+}
+
+#latest-news {
+    padding: 50px;
+    text-align: center;
+}
+
+#latest-news h2 {
+    font-size: 24px;
+    font-weight: bold;
+    margin: 0;
+}
+
+#latest-news ul {
+    list-style: none;
+    padding: 0;
+}
+
+#latest-news li {
+    margin: 10px 0;
+}
+
+#latest-news a {
+    color: #FF5733;
+    text-decoration: none;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+#contact, #social-media {
+    padding: 10px;
+    text-align: center;
+}
+
+#contact h3, #social-media h3 {
+    font-size: 20px;
+    font-weight: bold;
+    margin: 0;
+}
+
+#contact a, #social-media a {
+    color: #fff;
+    text-decoration: none;
+    margin: 10px;
+}
+
+.govern {
+    text-align: center;
+}
+
+.creator {
+    text-align: center;
+}
