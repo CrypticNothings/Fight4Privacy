@@ -13,7 +13,7 @@ body {
 
 header {
     background-color: #000000;
-    color: orange;
+    color: #9656a1;
     padding: 10px 0;
     text-align: center;
 }
@@ -34,7 +34,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: white;
+    color: #e78fb3;
     text-decoration: none;
     font-weight: bold;
 }
@@ -42,13 +42,13 @@ nav ul li a {
 section {
     padding: 20px;
     margin: 10px;
-    background: #e1e2e2;
+    background: #e78fb3;
     border-radius: 5px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
 h2 {
-    color: #fb8122;
+    color: #9656a1;
     margin-bottom: 15px;
 }
 
@@ -61,7 +61,7 @@ footer {
     text-align: center;
     padding: 10px;
     background-color: #1d2228;
-    color: white;
+    color: #9656a1;
     position: relative;
     bottom: 0;
     width: 100%;
