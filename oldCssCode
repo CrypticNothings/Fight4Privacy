@@ -2,20 +2,21 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
+    background-color: #e78fb3;
 }
 
 header {
-    background-color: #FF5733;
-    color: #fff;
+    background-color: #55423d;
+    color: #e78fb3;
     text-align: center;
-    padding: 100px 0;
+    padding: 50px 0;
 }
 
 h1 {
     font-size: 36px;
     font-weight: bold;
     margin: 0;
-    text-shadow: 0 0 5px #FF0000, 0 0 8px #0000FF;
+    text-shadow: 0 0 5px #9656a1, 0 0 8px #e78fb3;
 }
 
 h2 {
@@ -26,8 +27,8 @@ h2 {
 .cta-button {
     display: inline-block;
     padding: 15px 30px;
-    background-color: #D82C00;
-    color: #fff;
+    background-color: #9656a1;
+    color: #271c19;
     text-decoration: none;
     font-weight: bold;
     border-radius: 5px;
@@ -35,7 +36,7 @@ h2 {
 }
 
 #about {
-    background-color: #F5F5F5;
+    background-color: #e78fb3;
     padding: 50px;
     text-align: center;
 }
@@ -52,8 +53,8 @@ h2 {
 }
 
 #advocacy {
-    background-color: #FF5733;
-    color: #fff;
+    background-color: #55423d;
+    color: #e78fb3;
     padding: 100px 0;
     text-align: center;
 }
@@ -76,7 +77,7 @@ blockquote {
 }
 
 #resources {
-    background-color: #F5F5F5;
+    background-color: #55423d;
     padding: 50px;
     text-align: center;
 }
@@ -97,7 +98,7 @@ blockquote {
 }
 
 #resources a {
-    color: #FF5733;
+    color: #9656a1;
     text-decoration: none;
 }
 
@@ -122,13 +123,13 @@ blockquote {
 }
 
 #latest-news a {
-    color: #FF5733;
+    color: #9656a1;
     text-decoration: none;
 }
 
 footer {
-    background-color: #333;
-    color: #fff;
+    background-color: #55423d;
+    color: #e78fb3;
     padding: 20px 0;
     display: flex;
     justify-content: space-between;
@@ -146,7 +147,7 @@ footer {
 }
 
 #contact a, #social-media a {
-    color: #fff;
+    color: #e78fb3;
     text-decoration: none;
     margin: 10px;
 }
