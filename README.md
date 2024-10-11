@@ -4,6 +4,8 @@ The latest progress on this site as of 10/10/24:
 
 ![webpreview2](https://github.com/user-attachments/assets/0de9821f-aa10-4d97-ab15-8a66b8d30ff0)
 
+![webpreview3](https://github.com/user-attachments/assets/404479e4-48b3-47aa-847f-ef91bbe0eb40)
+
 Fight4Privacy
 
 Support the Mission:
@@ -29,7 +31,12 @@ Many people don’t think it can happen to them—until it does. This site is a 
 
 A Fresh Start:
 
-This is a rebuild of my previous project, which broke and grew beyond what I could manage. Rather than abandoning it, I decided to start from scratch and keep it simple. Fight4Privacy will serve as a showcase of my work, as well as a tool to educate and protect.
-
+This is a rebuild of my previous project, which broke and grew beyond what I could manage. Rather than abandoning it, I decided to start from scratch and keep it simple. 
+Fight4Privacy will serve as a showcase of my work, as well as a tool to educate and protect.
 
 ---
+![sterling_code_profile](https://github.com/user-attachments/assets/6ea52499-082b-4abc-97d2-49f3a6049768)
+
+![stercodBGYEA-removebg-preview](https://github.com/user-attachments/assets/9e90ec7d-6d8b-463a-ab9a-5a70cca68127)
+
+
