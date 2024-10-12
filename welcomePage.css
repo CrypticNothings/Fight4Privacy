@@ -1,0 +1,69 @@
+body {
+    background-color: #000; /* Dark background */
+    color: #eee; /* Light text color */
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    overflow: hidden; /* Prevent scrolling */
+}
+
+.container {
+    text-align: center;
+    max-width: 100%; /* Ensure container does not exceed screen width */
+    overflow: hidden; /* Hide overflow content */
+}
+
+#text-container {
+    position: relative; /* Allows positioning of child elements */
+    z-index: 2; /* Ensure text is above image */
+    margin-bottom: 20px; /* Add space between text and image */
+}
+
+h1 {
+    font-size: 48px;
+    margin: 20px 0;
+    color: #e0e0e0; /* Subtle gray color */
+    animation: fadeIn 3s ease-out forwards; /* Normal fade-in for the text */
+    animation-delay: 2s; /* Wait 2 seconds before showing the text */
+    opacity: 0; /* Start as invisible */
+}
+
+#delayed-image {
+    animation: fadeIn 3s ease-out forwards; /* Normal fade-in for the image */
+    animation-delay: 4s; /* Wait 4 seconds before showing the image */
+    max-height: 60vh; /* Limit the height of the image to 60% of the viewport height */
+    width: auto; /* Maintain aspect ratio */
+}
+
+/* Hover effect */
+#text-container:hover h1 {
+    opacity: 1; /* Show text on hover */
+    transition: opacity 0.5s ease-in-out; /* Smooth transition */
+}
+
+/* Interactive click animation */
+#text-container h1:active {
+    transform: scale(0.95); /* Scale down on click */
+    transition: transform 0.1s; /* Quick transition */
+}
+
+@keyframes fadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+}
+
+@keyframes pulse {
+    0%, 100% { transform: scale(1); }
+    50% { transform: scale(1.05); }
+}
+
+/* Ensure the image scales well on all devices */
+.responsive-image {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
