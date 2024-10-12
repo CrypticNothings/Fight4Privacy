@@ -1,15 +1,18 @@
 body {
     background-color: #000; /* Background color */
-    color: #fafafa; /* Text color */
+    color: #09e438; /* Text color */
     font-family: Arial, sans-serif;
     padding: 20px;
-    overflow: hidden; /* Prevent scrolling */
+    margin: 0;
+    height: 100%; /* Make sure the body takes full height */
+    overflow-y: auto; /* Allow vertical scrolling */
 }
 
 .container {
-    text-align: center; /* Center align text */
+    text-align: center;
     position: relative; /* Allow positioning of children */
     z-index: 1; /* Ensure text is above stars */
+    padding: 20px; /* Add some padding around content */
 }
 
 .responsive-image {
@@ -40,7 +43,7 @@ body {
 
 /* Twinkling stars effect */
 .twinkling-stars {
-    position: fixed; /* Position stars relative to viewport */
+    position: fixed; /* Fixed position for background effect */
     top: 0; 
     left: 0;
     width: 100%; /* Full width */
