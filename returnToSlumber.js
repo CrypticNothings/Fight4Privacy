@@ -1,5 +1,5 @@
 const starCount = 100; // Adjust the number of stars
-const starsContainer = document.querySelector('.twinkling-stars'); // Use the correct class name
+const starsContainer = document.querySelector('.twinkling-stars'); // Correct selector
 
 for (let i = 0; i < starCount; i++) {
     const star = document.createElement('div');
