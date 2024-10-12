@@ -1,0 +1,56 @@
+body {
+    background-color: #000; /* Dark background */
+    color: #fbff00; /* Light text color */
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    text-align: center;
+}
+
+.container {
+    max-width: 800px; /* Limit the width of the content */
+    padding: 20px;
+}
+
+h1 {
+    font-size: 48px;
+    margin: 20px 0;
+    color: #f70375; /* Subtle gray color */
+    animation: fadeIn 3s ease-out forwards; /* Normal fade-in for the text */
+}
+
+.description {
+    font-size: 24px;
+    margin: 20px 0;
+    opacity: 0.8; /* Slightly less opaque for a dreamy effect */
+}
+
+.responsive-image {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 20px auto; /* Center the image with margin */
+}
+
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    margin-top: 20px;
+    background-color: #333; /* Dark button */
+    color: #000000; /* White text */
+    text-decoration: none; /* No underline */
+    border-radius: 5px; /* Rounded corners */
+    transition: background-color 0.3s ease; /* Transition for hover effect */
+}
+
+.button:hover {
+    background-color: #555; /* Change color on hover */
+}
+
+@keyframes fadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+}
