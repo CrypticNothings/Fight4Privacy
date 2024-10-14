@@ -1,10 +1,12 @@
-The latest progress on this site as of 10/10/24:
+The latest progress on this site as of 10/13/24:
 
-![webpreview](https://github.com/user-attachments/assets/e4072fdf-a5db-4db9-bc03-6266738ad28b)
+![pagePreviewUpdate](https://github.com/user-attachments/assets/cfbf59d6-6464-4459-83d9-abcae1e4e717)
 
-![webpreview2](https://github.com/user-attachments/assets/0de9821f-aa10-4d97-ab15-8a66b8d30ff0)
+![pagePreviewUpdate2](https://github.com/user-attachments/assets/09910554-6757-4cfd-a39c-d2139a104eb2)
 
-![webpreview3](https://github.com/user-attachments/assets/404479e4-48b3-47aa-847f-ef91bbe0eb40)
+![pagePreviewUpdate3](https://github.com/user-attachments/assets/7cb7cb9f-2d13-4348-ada8-fc96c64fc4ef)
+
+![pagePreviewUpdate4](https://github.com/user-attachments/assets/75be6670-997b-48cf-971b-c366e5fdc8e2)
 
 Fight4Privacy
 
