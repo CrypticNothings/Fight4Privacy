@@ -2,8 +2,8 @@ The latest progress on this site as of 10/13/24:
 
 ![pagePreviewUpdate](https://github.com/user-attachments/assets/cfbf59d6-6464-4459-83d9-abcae1e4e717)
 <hr>
->The Return to Slumber Page below has a dynamic active moving background, but isn't really a page any one should go to because that means they chose the blue pill which would be choosing not to learn and remain oblivious, aka asleep. So, Wake Up.
->
+The Return to Slumber Page below has a dynamic active moving background, but isn't really a page any one should go to because that means they chose the blue pill which would be choosing not to learn and remain oblivious, aka asleep. So, Wake Up.
+
 
 ![pagePreviewUpdate2](https://github.com/user-attachments/assets/09910554-6757-4cfd-a39c-d2139a104eb2)
 
@@ -46,8 +46,8 @@ This is a rebuild of my previous project, which broke and grew beyond what I cou
 Fight4Privacy will serve as a showcase of my work, as well as a tool to educate and protect.
 
 ---
-![sterling_code_profile](https://github.com/user-attachments/assets/6ea52499-082b-4abc-97d2-49f3a6049768)
+<center>![sterling_code_profile](https://github.com/user-attachments/assets/6ea52499-082b-4abc-97d2-49f3a6049768)</center>
 
-![stercodBGYEA-removebg-preview](https://github.com/user-attachments/assets/9e90ec7d-6d8b-463a-ab9a-5a70cca68127)
+<center>![stercodBGYEA-removebg-preview](https://github.com/user-attachments/assets/9e90ec7d-6d8b-463a-ab9a-5a70cca68127)</center>
 
 
