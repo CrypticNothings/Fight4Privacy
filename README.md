@@ -45,9 +45,12 @@ A Fresh Start:
 This is a rebuild of my previous project, which broke and grew beyond what I could manage. Rather than abandoning it, I decided to start from scratch and keep it simple. 
 Fight4Privacy will serve as a showcase of my work, as well as a tool to educate and protect.
 
----
-<center>![sterling_code_profile](https://github.com/user-attachments/assets/6ea52499-082b-4abc-97d2-49f3a6049768)</center>
+--- 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6ea52499-082b-4abc-97d2-49f3a6049768" alt="sterling_code_profile" />
+</p>
 
-<center>![stercodBGYEA-removebg-preview](https://github.com/user-attachments/assets/9e90ec7d-6d8b-463a-ab9a-5a70cca68127)</center>
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9e90ec7d-6d8b-463a-ab9a-5a70cca68127" alt="stercodBGYEA" />
+</p>
 
