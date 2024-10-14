@@ -3,51 +3,50 @@ body {
     color: #eee; /* Light text color */
     font-family: Arial, sans-serif;
     display: flex;
-    justify-content: center;
+    flex-direction: column;
+    justify-content: flex-start;
     align-items: center;
-    height: 100vh;
+    min-height: 100vh;
     margin: 0;
-    overflow: hidden; /* Prevent scrolling */
+    overflow-x: hidden; /* Allow vertical scrolling, hide horizontal scrolling */
 }
 
 .container {
     text-align: center;
-    max-width: 100%; /* Ensure container does not exceed screen width */
-    overflow: hidden; /* Hide overflow content */
+    max-width: 100%;
 }
 
 #text-container {
-    position: relative; /* Allows positioning of child elements */
-    z-index: 2; /* Ensure text is above image */
-    margin-bottom: 20px; /* Add space between text and image */
+    position: relative;
+    z-index: 2;
+    margin-bottom: 20px;
 }
 
 h1 {
     font-size: 48px;
     margin: 20px 0;
-    color: #e0e0e0; /* Subtle gray color */
-    animation: fadeIn 3s ease-out forwards; /* Normal fade-in for the text */
-    animation-delay: 2s; /* Wait 2 seconds before showing the text */
-    opacity: 0; /* Start as invisible */
+    color: #e0e0e0;
+    animation: fadeIn 3s ease-out forwards;
+    animation-delay: 2s;
+    opacity: 0;
+    text-shadow: 0px 0px 10px #ff0000; /* Add subtle glow effect */
 }
 
 #delayed-image {
-    animation: fadeIn 3s ease-out forwards; /* Normal fade-in for the image */
-    animation-delay: 4s; /* Wait 4 seconds before showing the image */
-    max-height: 60vh; /* Limit the height of the image to 60% of the viewport height */
-    width: auto; /* Maintain aspect ratio */
+    animation: fadeIn 3s ease-out forwards;
+    animation-delay: 4s;
+    max-height: 50vh;
+    width: auto;
 }
 
-/* Hover effect */
 #text-container:hover h1 {
-    opacity: 1; /* Show text on hover */
-    transition: opacity 0.5s ease-in-out; /* Smooth transition */
+    opacity: 1;
+    transition: opacity 0.5s ease-in-out;
 }
 
-/* Interactive click animation */
 #text-container h1:active {
-    transform: scale(0.95); /* Scale down on click */
-    transition: transform 0.1s; /* Quick transition */
+    transform: scale(0.95);
+    transition: transform 0.1s;
 }
 
 @keyframes fadeIn {
@@ -55,15 +54,56 @@ h1 {
     100% { opacity: 1; }
 }
 
-@keyframes pulse {
-    0%, 100% { transform: scale(1); }
-    50% { transform: scale(1.05); }
-}
-
-/* Ensure the image scales well on all devices */
 .responsive-image {
     max-width: 100%;
     height: auto;
     display: block;
     margin: 0 auto;
+}
+
+/* Additions for Pill Images and Links */
+.choice-container {
+    margin: 5px 0; /* Adjusts space around the pill links */
+}
+
+.pill-link {
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 10px;
+    color: #fff;
+    text-decoration: none;
+    font-size: 20px;
+    border-radius: 5px;
+    transition: background-color 0.3s ease, box-shadow 0.3s ease;
+    text-shadow: 0px 0px 5px rgba(255, 255, 255, 0.6); /* Adds a glowing text effect */
+}
+
+.red-pill {
+    background-color: #e53935;
+}
+
+.red-pill:hover {
+    background-color: #c62828;
+    box-shadow: 0px 0px 15px rgba(229, 57, 53, 0.7);
+}
+
+.blue-pill {
+    background-color: #1e88e5;
+}
+
+.blue-pill:hover {
+    background-color: #1565c0;
+    box-shadow: 0px 0px 15px rgba(30, 136, 229, 0.7);
+}
+
+/* Styling the pill image container */
+.pill-image-container {
+    margin: 10px 0; /* Space between buttons and image */
+}
+
+.pill-image {
+    max-width: 80%;
+    height: auto;
+    display: block;
+    margin: 0 auto; /* Center the image */
 }
