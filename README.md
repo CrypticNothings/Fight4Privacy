@@ -1,15 +1,15 @@
 The latest progress on this site as of 10/13/24:
 
 ![pagePreviewUpdate](https://github.com/user-attachments/assets/cfbf59d6-6464-4459-83d9-abcae1e4e717)
-
+<hr>
 >The Return to Slumber Page below has a dynamic active moving background, but isn't really a page any one should go to because that means they chose the blue pill which would be choosing not to learn and remain oblivious, aka asleep. So, Wake Up.
 >
 ![pagePreviewUpdate2](https://github.com/user-attachments/assets/09910554-6757-4cfd-a39c-d2139a104eb2)
-
+<hr>
 ![pagePreviewUpdate3](https://github.com/user-attachments/assets/7cb7cb9f-2d13-4348-ada8-fc96c64fc4ef)
-
+<hr>
 ![pagePreviewUpdate4](https://github.com/user-attachments/assets/75be6670-997b-48cf-971b-c366e5fdc8e2)
-
+<hr>
 Fight4Privacy
 
 Support the Mission:
