@@ -47,10 +47,6 @@ Fight4Privacy will serve as a showcase of my work, as well as a tool to educate 
 
 --- 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6ea52499-082b-4abc-97d2-49f3a6049768" alt="sterling_code_profile" />
-</p>
-
-<p align="center">
   <img src="https://github.com/user-attachments/assets/9e90ec7d-6d8b-463a-ab9a-5a70cca68127" alt="stercodBGYEA" />
 </p>
 
